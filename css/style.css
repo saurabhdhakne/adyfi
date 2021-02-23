@@ -194,7 +194,14 @@ img{
     font-size: 1.6em;
     margin-top: 20px;
 }
-
+.webDesigning  .h55{
+    background: rgba(150, 28, 231, 0.5);
+    color: snow;
+    margin-top: 10vh;
+    padding: 15px 5px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, .4);
+}
 .webDesigning .uline{
     width: 400px;
     height: 10px;
@@ -279,16 +286,18 @@ img{
 .graphics .data{
     margin-top: 7vh;
 }
+
 .graphics .data h1{
     font-size: 3.7vw;
 }
+
 .graphics .data h5{
     background: rgba(150, 28, 231, 0.8);
     color: snow;
     margin-top: 10vh;
     padding: 15px 5px;
     border-radius: 5px;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, .7);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, .4);
 }
 
 .graphics .logos img{
