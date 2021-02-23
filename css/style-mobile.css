@@ -1,0 +1,166 @@
+@media only screen and (max-width: 720px) {
+
+    /* services */
+    
+    .services .bgimg2{
+        display: block;
+    }
+    .services .bgimg{
+        display: none;
+    }
+    .services .bgimg2{
+        position: absolute;
+        width: 100%;
+        height: 100vh;
+        left: 0;
+        z-index: -1;
+    }
+    .services .uline{
+        width: 80%;
+        height: 10px;
+    }
+
+    .service-head h5{
+        font-size: 10px;
+        margin-top: 15vh;
+
+    }
+    .service-head h2{
+        font-size: 14px;
+    }
+
+    /* Digital Marketing */
+    
+    .digitalMarketing{
+        top: 185vh;
+    }
+    .digitalMarketing .bgimg2{
+        display: block;
+    }
+    .digitalMarketing .bgimg{
+        display: none;
+    }
+    .digitalMarketing .bgimg2{
+        position: absolute;
+        width: 100%;
+        height: 100vh;
+        left: 0;
+        z-index: -1;
+    }
+
+    .digitalMarketing .data h1{
+        font-size: 9vw;
+    }
+    
+    .digitalMarketing .data input{
+        margin-top: 10px;
+        border-radius: 30px;
+        font-size: 4vw;
+        color: #4C0096;
+    }
+
+    /* Web Designing */
+
+    .webDesigning{
+        /* background: #87b7ff; */
+        min-height: 200vh; 
+
+    }
+    .webDesigning .secondhead{
+        margin-top: 3vh;
+        font-size: 4vw;
+    }
+    .webDesigning .bgimg2{
+        display: block;
+    }
+    .webDesigning .bgimg{
+        display: none;
+    }
+    .webDesigning .bgimg2{
+        position: absolute;
+        width: 100%;
+        height: 200vh;
+        left: 0;
+        z-index: -1;
+    }
+    .webDesigning .i-img{
+        margin-top: 2vh;
+        height: 30vh;
+    }
+    .webDesigning  h1{
+        margin-top: 5vh;
+        font-size: 8vw;
+    }
+    .webDesigning  h5{
+        font-size: 4vw;
+        
+    }
+    .webDesigning  input{
+        margin-top: 20px;
+        border-radius: 30px;
+        font-size: 4vw;
+    }
+    .webDesigning .uline{
+        width: 80%;
+        height: 10px;
+    }
+    .webDesigning .cup{
+        font-size: 4vw;
+        
+    }
+
+    /* Content WEriting */
+
+   
+    .contentWriting .bgimg2{
+        display: block;
+    }
+    .contentWriting .bgimg{
+        display: none;
+    }
+    .contentWriting .bgimg2{
+        position: absolute;
+        width: 100%;
+        height: 100vh;
+        left: 0;
+        z-index: -1;
+    }
+
+    .contentWriting .data h1{
+        font-size: 9vw;
+    }
+
+    /* Graphics */
+    .graphics .data{
+        margin-top: 20vh;
+    }
+    .graphics .bgimg2{
+        display: block;
+    }
+    .graphics .bgimg{
+        display: none;
+    }
+    .graphics .bgimg2{
+        position: absolute;
+        width: 100%;
+        height: 100vh;
+        left: 0;
+        z-index: -1;
+    }
+    .graphics .data h1{
+        font-size: 9vw;
+    }
+    .graphics .data p{
+        font-size: 3vw;
+    }
+    .graphics .data h5{
+        font-size: 4vw;
+    }
+    .graphics .logos img{
+        height: 70px;
+        width: 70px;
+    }
+    .graphics .cup{
+        font-size: 1.5em;
+    }
+}
