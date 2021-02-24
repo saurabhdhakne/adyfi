@@ -59,7 +59,6 @@
         margin-top: 10px;
         border-radius: 30px;
         font-size: 4vw;
-        color: #4C0096;
     }
 
     /* Web Designing */
@@ -106,6 +105,9 @@
     .webDesigning .uline{
         width: 80%;
         height: 10px;
+    }
+    .webDesigning .webm{
+        margin-top: 5vh;
     }
     .webDesigning .cup{
         font-size: 4vw;
