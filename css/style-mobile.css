@@ -135,7 +135,7 @@
 
     /* Graphics */
     .graphics .data{
-        margin-top: 20vh;
+        margin-top: 10vh;
     }
     .graphics .bgimg2{
         display: block;
@@ -164,7 +164,6 @@
         width: 70px;
     }
     .graphics .cup{
-        margin-top:5vh;
         font-size: 1.5em;
     }
 
