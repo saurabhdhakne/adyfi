@@ -310,3 +310,106 @@ img{
     background:  #2f89ff;
     font-size: 2em;
 }
+
+/* Email Marketing  */
+.emailMarketing{
+    min-height: 125vh; 
+    position: absolute;
+    top: 650vh;
+}
+
+.emailMarketing .bgimg{
+    display:block;
+}
+
+.emailMarketing .bgimg2{
+    display: none;
+}
+.emailMarketing .bgimg{
+    position: absolute;
+    width: 100%;
+    height: 125vh;
+    left: 0;
+    z-index: -1;
+}
+
+.emailMarketing .data{
+    margin-top: 30vh;
+    padding: 10vh 10% ;
+    color: snow;
+    background: linear-gradient(275.32deg, #2E3CC0 4.65%, rgba(79, 104, 234, 0.8) 95.17%);
+    box-shadow: 0px 4px 40px #02DFA4;
+    border-radius: 20px;
+    transition: all 1s ease-out;
+}
+.emailMarketing .data:hover{
+    box-shadow: 0px 4px 40px #584CFF;
+    transition: all 1s ease-in;
+    
+}
+.emailMarketing .data h1{
+    font-size: 3.7vw;
+}
+.emailMarketing .data h5{
+    margin-top: 5vh;
+}
+
+.emailMarketing .data span{
+    color: #02DFA4;
+}
+
+.emailMarketing .data .cup{
+    background: #02DFA4;
+    font-size: 2.5vw;
+    border-radius: 40px;   
+}
+
+/* Animation  */
+
+.animation{
+    min-height: 140vh; 
+    position: absolute;
+    top: 760vh;
+}
+
+.animation .bgimg{
+    display:block;
+}
+
+.animation .bgimg2{
+    display: none;
+}
+.animation .bgimg{
+    position: absolute;
+    width: 100%;
+    height: 140vh;
+    left: 0;
+    z-index: -1;
+}
+
+.animation .data{
+    margin-top: 20vh;
+    color: snow;
+}
+.animation .data h1{
+    font-size: 7vw;
+    text-shadow: 0 1px 20px rgba(0, 0, 0, .5);
+}
+
+.animation .data .d-flex{
+    margin-top:10vh;
+}
+.animation .data .d-flex img{
+    height: 150px;
+}
+.animation .data .anima-card{
+    padding: 5vh 5%;
+    box-shadow: 0px 1px 15px rgba(35, 138, 255, 0.596);
+    border-radius: 10px;
+}
+.animation .data .cup{
+    background: #f74747;
+    font-size: 2.5vw;
+    border-radius: 40px;   
+    margin-top: 10vh;
+}

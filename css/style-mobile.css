@@ -166,4 +166,67 @@
     .graphics .cup{
         font-size: 1.5em;
     }
+
+/* Email Marketing  */
+    .emailMarketing{
+        min-height: 130vh; 
+    }
+    .emailMarketing .data{
+        margin-top: 20vh;
+    }
+    .emailMarketing .bgimg2{
+        display: block;
+    }
+    .emailMarketing .bgimg{
+        display: none;
+    }
+    .emailMarketing .bgimg2{
+        position: absolute;
+        width: 100%;
+        height: 130vh;
+        left: 0;
+        z-index: -1;
+    }
+    .emailMarketing .data h1{
+        font-size: 9vw;
+    }
+
+    .emailMarketing .data .cup{
+        font-size: 7vw;
+
+    }
+
+    /* Animation  */
+
+    .animation{
+        min-height: 125vh; 
+    }
+
+    .animation .data{
+        margin-top: 20vh;
+    }
+    .animation .bgimg2{
+        display: block;
+    }
+    .animation .bgimg{
+        display: none;
+    }
+    .animation .bgimg2{
+        position: absolute;
+        width: 100%;
+        height: 130vh;
+        left: 0;
+        z-index: -1;
+    }
+    .animation .data h1{
+        font-size: 12vw;
+    }
+
+    .animation .data .cup{
+        margin-top: 5vh;
+        font-size: 5vw;
+
+    }
+
+
 }
