@@ -137,7 +137,7 @@
 
     /* Graphics */
     .graphics .data{
-        margin-top: 10vh;
+        margin-top: 15vh;
     }
     .graphics .bgimg2{
         display: block;
@@ -166,7 +166,7 @@
         width: 70px;
     }
     .graphics .cup{
-        font-size: 1.5em;
+        font-size: 1em;
     }
 
 /* Email Marketing  */
